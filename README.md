@@ -1,1 +1,5 @@
-# Project_Struktur_Data
+Nama : Nabil Haidar
+Nim : 24416255201136
+Kelas : IF24D
+Matkul : Struktur Data
+APLIKASI MANAJEMEN KEUANGAN UNTUK MAHASISWA 
